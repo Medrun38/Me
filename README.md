@@ -1,6 +1,3 @@
-# Medrun38.github.io
-Kaugummi
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -33,11 +30,11 @@ Kaugummi
         <h2>Unsere Produkte</h2>
         <ul>
           <li>
-            <h3>Produkt 1</h3>
-            <p>Broken Dreams.</p>
-            <span class="price">$1.99</span>
-            <a href="#" class="btn">Jetzt kaufen</a>
-          </li>
+  <h3>Produkt 1</h3>
+  <p>Broken Dreams.</p>
+  <span class="price">$1.99</span>
+  <a href="produkt 1.html" class="btn">Jetzt kaufen</a>
+</li>
           <li>
             <h3>Produkt 2</h3>
             <p>Große Tüte (8 Geschmäcker).</p>
